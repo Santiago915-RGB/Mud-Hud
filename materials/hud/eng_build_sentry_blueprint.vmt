@@ -1,0 +1,13 @@
+"LightMappedGeneric"
+{
+"$basetexture" "hud/eng_build_sentry_blueprint"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "60"
+}
+}
+}
